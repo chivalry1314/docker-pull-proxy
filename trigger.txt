@@ -1,1 +1,1 @@
-chivalry1314/dify-api:a75970169f19ff106974c4217bb4b3400c650a48 registry.cn-hangzhou.aliyuncs.com/gkzx2024/dify-gkzx-api:202407081133
+ubuntu/squid:latest registry.cn-hangzhou.aliyuncs.com/gkzx2024/squid:latest
