@@ -7,7 +7,7 @@ on:
   #   branches: [ main ]
 
 env:
-  REGISTRY: registry.cn-hangzhou.aliyuncs.com
+  REGISTRY: crpi-fifggh3laecj4yqk.cn-hangzhou.personal.cr.aliyuncs.com/zcstash/postgres:15-alpine
   ALIYUN_REGISTRY_USER: "${{ secrets.ALIYUN_REGISTRY_USER }}"
   ALIYUN_REGISTRY_PASSWORD: "${{ secrets.ALIYUN_REGISTRY_PASSWORD }}"
   MM_NOTIFY_URL: "${{ secrets.MM_NOTIFY_URL }}"
